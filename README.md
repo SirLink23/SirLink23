@@ -15,7 +15,7 @@ J'ai de divers projets comme :
 
 ### Compétences 🖱️
 
-Je suis un habitué de ![NodeJS](https://github.com/SirLink23/SirLink/raw/main/node-js.png) **NodeJS** pour coder mes projets and ![python](https://github.com/SirLink23/SirLink/raw/main/python.png) **Python**, j'apprends également le ![c++](https://github.com/SirLink23/SirLink/raw/main/c++.png) **C++** pour de futurs projets. En terme de base de données j'utilise ![mongodb](https://github.com/SirLink23/SirLink/raw/main/mongodb.png) **MongoDB**.
+Je suis un habitué de **NodeJS** pour coder mes projets et **Python**, j'apprends également le **C++** pour de futurs projets. En terme de base de données j'utilise **MongoDB**.
 
 ### Contact me 🤝
 
