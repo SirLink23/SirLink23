@@ -17,6 +17,6 @@ J'ai de divers projets comme :
 
 Je suis un habitué de **NodeJS** pour coder mes projets et **Python**, j'apprends également le **C++** pour de futurs projets. En terme de base de données j'utilise **MongoDB**.
 
-### Contact me 🤝
+### Contactez moi 🤝
 
 Je suis disponible sur **[Twitter](https://twitter.com/_SirLink)**.
