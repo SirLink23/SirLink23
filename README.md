@@ -1,22 +1,21 @@
 ## Salut toi 👋
 
-Bienvenue sur ma page! Je suis Sir Link, un étudiant de 17 ans addict de développement. 
+Bienvenue sur ma page! Je suis Sir Link, un étudiant en 3D de 19 ans !
 
-*Je suis également Rédacteur et Modérateur pour **[Paladium](https://paladium-pvp.fr)**! 📝*
+*Je suis également staff pour **[Paladium](https://paladium-pvp.fr)**! 📝*
 
 ### Projets ✨
 
 Certains de mes projets sont open source 👀  
 J'ai de divers projets comme :
 
-* **[Shadow's Raven Website](https://github.com/SirLink23/ShadowsRaven-Website)**, un site pour une faction Paladium  
-* **[TechDev OS](https://discord.gg/Z7d2StRDVN)**, dans lequel je suis développeur JavaScript, en particulier pour **[ManageFaction](https://discord.gg/V49nAfdhFw)** un bot de gestion de Faction
-* **[Shadow's Raven Market](https://discord.gg/CJn6bdt)**, que je gère et où j'assure la gestion du développement ainsi que l'administration système
+* **[Shadow's Raven](https://github.com/SirLink23/ShadowsRaven-Website)**, ensemble de projets fait main pour une faction Paladium (site et 3 bots Discord)
+* **[Lightning]([https://discord.gg/Z7d2StRDVN](https://discord.gg/wKXKqY4Ugc))**, projet créé avec un ami dans le but de développer nos propres bots Discord, notre première création se nomme Spiritual, un bot de musique.
 
 ### Compétences 🖱️
 
-Je suis un habitué de **NodeJS** pour coder mes projets et **Python**, j'apprends également le **C++** pour de futurs projets. En terme de base de données j'utilise **MongoDB**.
+Je suis un habitué de **NodeJS** pour coder mes projets et **Python**. J'utilise MongoDB pour mes structures de données. Dans le cadre de mes études, j'ai appris à utiliser Maya, Blender, Photoshop, After Effect, Premiere Pro, Substance Painter et Unreal Engine.
 
 ### Contactez moi 🤝
 
-Je suis disponible sur **[Twitter](https://twitter.com/_SirLink)**.
+Je suis disponible sur **[Twitter](https://twitter.com/SirLink_)**.
