@@ -9,7 +9,7 @@ Bienvenue sur ma page! Je suis Sir Link, un étudiant en Animation 3D de 20 ans 
 Certains de mes projets sont open source 👀  
 J'ai de divers projets comme :
 
-* **[Lightning](https://discord.gg/Z7d2StRDVN)**, projet créé avec un ami dans le but de développer nos propres bots Discord, notre première création se nomme Spiritual, un bot de musique.
+* **[Lightning]()**, projet créé avec un ami dans le but de développer nos propres bots Discord, notre première création se nomme Spiritual, un bot de musique.
 
 ### Compétences 🖱️
 
