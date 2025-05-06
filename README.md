@@ -2,8 +2,6 @@
 
 Bienvenue sur ma page! Je suis Sir Link, un étudiant en Animation 3D de 20 ans !
 
-*Je suis également staff pour **[Paladium](https://paladium-pvp.fr)**! 📝*
-
 ### Projets ✨
 
 Certains de mes projets sont open source 👀  
