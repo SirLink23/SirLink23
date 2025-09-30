@@ -1,6 +1,6 @@
 ## Salut toi 👋
 
-Bienvenue sur ma page! Je suis Sir Link, un étudiant en Animation 3D de 20 ans !
+Bienvenue sur ma page! Je suis Sir Link, un étudiant en Game Design et Game Development de 21 ans !
 
 ### Projets ✨
 
@@ -11,7 +11,7 @@ J'ai de divers projets comme :
 
 ### Compétences 🖱️
 
-Je suis un habitué de **NodeJS** pour coder mes projets et **Python**. J'utilise MongoDB pour mes structures de données. Dans le cadre de mes études, j'ai appris à utiliser Maya, Blender, Photoshop, After Effect, Premiere Pro, Substance Painter et Unreal Engine.
+Je travaille à l'aide de différent logiciels : Unity, Unreal Engine, Photoshop, Maya et Substance Painter
 
 ### Contactez moi 🤝
 
